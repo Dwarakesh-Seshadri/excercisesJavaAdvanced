@@ -2,7 +2,7 @@ package be.abis.exercise.model;
 
 public class Address {
 	
-	private String street;
+	private String street ;
 	private String nr;
 	private String zipCode;
 	private String town;
